@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+
+#contenedor{ width: 70%;
+    background-color: red;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+header{
+    width: 100%;
+    background-color: blue;
+    color: #333;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+
+}
+aside{
+    width: 25%;
+    background-color: #ccc;
+    float: left;
+    min-height: 700px;
+    text-align: center;
+    line-height: 700px;
+}
+#articulo{
+    width: 75%;
+    min-height: 700px;
+    background-color: lemonchiffon;
+    float: left;
+
+}

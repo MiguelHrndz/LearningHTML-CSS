@@ -1,0 +1,269 @@
+*{ font-family: Arial, Helvetica, sans-serif;
+margin: 0px;
+padding: 0px;
+}
+#header{ text-align: center;
+    border: 1px solid black;
+    background-color: #cccccc;
+
+}
+#menu ul li{ display: block;
+    float: left;
+    padding: 15px;
+    padding-left: 20px;
+    border-right: 1px solid #000;
+    font-size: 40px;
+}
+#menu ul li:hover{background-color: lightblue;
+}
+#menu ul li a{
+    color: black;
+}
+#menu ul li a:hover{
+    background-color: white;
+}
+#menu{background-color: #cccccc;
+    border: 1px solid black;}
+
+    #flotantes{ display: block;
+        float: left;
+    }
+#general{ width: 1500px;
+    height: 1500px;
+    background-color: #cccccc;
+    border: 3px solid black;
+    float: left;
+}
+#conjunto1{
+    height: 1200px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    }
+
+#caja1{border: 1px solid black;
+ color: black;
+ text-align: center;
+ text-transform: uppercase;
+ padding: 2px;
+}
+#fecha {border: 1px solid black;
+margin-left: 369px;
+margin-right: 369px;
+} 
+#aja2{border: 1px solid black;
+margin: 20px;
+text-align: justify;}   
+
+#x {
+    border: 1px solid black;
+}
+
+#cajas2{
+    border: 1px solid black;
+    margin-top: 10px;
+    height: 500px;
+    width: 800px;
+}
+#cajon1{ border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    color: #184468;
+    margin: 10px;
+}
+#cajon2{ border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    color: #4B87BE;
+    margin: 10px;
+}
+#cajon3{border: 1px solid black;
+    text-align: justify;
+    color: black;
+    margin: 10px;
+}
+#cajas3{ border: 1px solid black;
+    margin: 10px;
+}
+#cajon4{ border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    color: #184468;
+    margin: 10px;
+}
+#cajon5{ border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    color: #4B87BE;
+    margin: 10px;
+}
+#y{display: block;
+    float: right;
+    border: 1px solid black;
+    margin-top: 10px;
+    height: 1200px;
+    width: 660px;
+}
+#cajas4{
+    border: 1px solid black;
+    margin: 15px;
+}
+#caja9{ border: 1px solid black;
+    margin: 10px auto;
+    height: 70px;
+    width: 350px;
+    background-image: url(img/background2.jpg);
+    line-height: 65px;
+    text-align: center;
+    font-weight: bold;
+}
+#caja10{  border: 1px solid black;
+    margin: 10px auto;
+    height: 75px;
+    width: 350px;
+    background-image: url(img/background2.jpg);
+    line-height: 65px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#cajas5{
+    border: 1px solid black;
+}
+
+#caja11{
+    font-weight: bold;
+    margin: 0px auto;
+    border: 1px solid black;
+    width: 350px;
+    text-align: center;
+    margin-top: 10px;
+}
+#caja12{
+    margin: 0px auto;
+    border: 1px solid black;
+    width: 350px;
+    text-align: center;
+}
+#caja13{border: 1px solid black;
+    margin: 5px auto;
+    font-size: 31px;
+    color: #4B87BE;
+    width: 350px;
+}
+#caja14{border: 1px solid black;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 24px;
+    color: #184468;
+    width: 350px;
+}
+#caja15{ border: 1px solid black;
+    width: 350px;
+    margin: 20px auto;
+
+}
+#envolvente{border: 1px solid black;
+    
+}
+#caja16{border: 1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 24px;
+    color: #184468;
+    width: 350px;
+text-transform: uppercase;}
+
+#caja17{border: 1px solid black;
+margin: 10px auto;
+text-align: center;
+width: 360px;
+}
+#caja18{border: 1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    width: 180px;
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+}
+#aside{ float: right;
+    width: 397px;
+    height: 1500px;
+    margin-top: 0px;
+}
+#envoltorio{border: 1px solid black;
+float: right ;
+background-color: #cccccc;
+width: 397px;
+    height: 1155px;
+}
+.cajoneras{border: 1px solid black;
+    margin: 10px;}
+#caja21{border: 2px solid black;
+margin: 10px auto;
+text-align: center;
+font-weight: bold;
+text-transform: uppercase;
+width: 120px;
+}
+.form{border: 1px solid black;
+    margin: 10px auto;}
+
+    #envoltorio2{border: 1px solid black;
+        float: right ;
+        background-color: #cccccc;
+        width: 397px;
+            height: 1155px;
+        }
+        #topic{border: 2px solid black;
+            margin: 10px auto;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            width: 120px;
+            font-size: 28px;
+}
+#topics{border: 2px solid black;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 120px;}
+    #cqc3{border: 1px solid black;
+        width: 397px;}
+
+#cqc{border:1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 360px;
+    font-size: 28px;}   
+
+    #cqc2{border: 1px solid black;
+        margin: 10px auto;
+        margin-top: 0px i !important;
+        text-align: justify;
+        width: 360px;
+        }   
+
+        #auspicio{
+            border:1px solid black;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 360px;
+    font-size: 28px;
+        }
+        #auspicio2{
+            border: 1px solid black;
+            margin: 5px auto;
+            text-align: center;
+            width: 360px;
+            height: 360px;
+        }
+.clearfix { float: none;
+    clear: both;}

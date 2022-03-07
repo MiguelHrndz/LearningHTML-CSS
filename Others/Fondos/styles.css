@@ -1,0 +1,7 @@
+/*body{ background-image: url(img/css.jpg)} */
+
+#caja {border: 5px solid black; 
+padding: 15px;
+background-color: cadetblue;
+color: white;
+text-align: center;}

@@ -1,0 +1,25 @@
+@font-face { 
+    font-family: ChangoFuenteCustom;
+    src: url(Fonts/Chango-Regular.ttf)
+}
+
+
+
+h1 {font-family: ChangoFuenteCustom;
+    color: rgb(28, 160, 214, 0.9);
+
+}
+
+h3 { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+p{ font-family: fantasy; font-size: 25px; font-weight: bold;
+
+    /* font-size = TAMAÑO font-family = TIPO font-weight: bold = TEXTO EN NEGRITA */
+
+
+
+
+}

@@ -1,0 +1,12 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+h1 {color: black;}
+h2 {color: black;}
+footer a {font-size: 20px; text-decoration: none;}
+nav li a {text-decoration: none; font-size: 20px;}
+
+
+#descripcion {border: solid 5px; padding: 15px;}
+#derechos {padding: 15px;}
+
+footer {margin: 20px;}
